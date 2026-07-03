@@ -22,7 +22,7 @@ I develop robust and scalable AI solutions with a strong focus on **multimodal f
 
 [//]: # ([Download Industry-Focused CV]&#40;/files/Somayeh_Ebrahimkhani_Ind.pdf&#41;  )
 
-[//]: # ([GitHub]&#40;https://github.com/somayeh-ebrah&#41; | [Google Scholar]&#40;https://scholar.google.com/citations?user=S2OJdecAAAAJ&hl=en&#41;)
+[GitHub](https://github.com/somayeh-ebrah) | [Google Scholar](https://scholar.google.com/citations?user=S2OJdecAAAAJ&hl=en)
 
 ---
 

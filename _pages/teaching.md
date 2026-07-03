@@ -14,6 +14,6 @@ University of Zanjan, Iran (2013–2014)
 
 **Teaching Assistant**  
 Monash University, Malaysia (2016–2018)
-- Supported multiple undergraduate Computer Science courses including programming, software design, and theoretical foundations.
+- Supported multiple undergraduate Computer Science courses including programming, and theory of computation.
 
 [//]: # (I am passionate about helping students build strong programming and problem-solving skills.)
