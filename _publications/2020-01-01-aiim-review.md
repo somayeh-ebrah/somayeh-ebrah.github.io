@@ -2,7 +2,7 @@
 title: "A review on segmentation of knee articular cartilage: From conventional methods towards deep learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-aiim-knee-review
+permalink: /publication/2020-01-01-aiim-knee-review
 excerpt: 'Comprehensive review of knee articular cartilage segmentation methods.'
 date: 2020-01-01
 venue: 'Artificial Intelligence in Medicine'
