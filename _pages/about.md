@@ -36,5 +36,5 @@ I develop robust and scalable AI solutions with a strong focus on **multimodal f
 ### Recent News
 - *ICML 2026*: "Recognized as a Silver Reviewer (Top Reviewer distinction) at ICML 2026."
 - *ICLR 2026*: "How Do Medical MLLMs Fail? A Study on Visual Grounding in Medical Images" 
-- *AAIC 2025*: Brain-FM presentation – Top 10 Finalist at AI Health World Summit 2025
+- *AI Health World Summit 2025*: Brain-FM presentation – Top 10 Finalist at AI Health World Summit 2025
 - NeurIPS 2024: Vision Transformer Neural Architecture Search for Out-of-Distribution Generalization 
