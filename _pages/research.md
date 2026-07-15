@@ -8,7 +8,7 @@ author_profile: true
 
 My research lies at the intersection of **computer vision**, **multimodal learning**, and **robust AI systems**. I focus on developing scalable and reliable machine learning solutions that can be deployed in real-world settings, particularly in healthcare and sustainability.
 
-### Core Research Areas
+## Core Research Areas
 **Vision Foundation Models for Brain MRI**
 
 I am currently working on **vision foundation models** for brain MRI analysis. These models focus on learning rich visual representations from MRI scans to support diagnostic reasoning for neurodegenerative diseases such as Alzheimer’s and dementia, when integrated with clinical context.
